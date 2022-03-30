@@ -1,0 +1,14 @@
+.myButton {
+    height: 50px;
+    width: 343px;
+    border-radius: 10px;
+    padding: 7px;
+    background-color: #5AC8FA;
+    font-size: 16px;
+    color: #fff;
+    margin-top: 24px;
+    transition: .4s;
+}
+.myButton:hover {
+    background-color: #459cc4;
+}

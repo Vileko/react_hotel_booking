@@ -1,0 +1,380 @@
+{
+	"results": {
+		"hotels": [
+			{
+				"price": "5000",
+				"rating": "5",
+				"fullName": "AZIMUT Отель Олимпик Москва, Москва, Россия",
+				"locationId": 12153,
+				"_score": 852043,
+				"id": "333526",
+				"label": "AZIMUT Отель Олимпик Москва",
+				"locationName": "Москва, Россия",
+				"included": {
+					"food": "- завтрак",
+					"kidsClub": "- детская игровая комната",
+					"swimmingPool": "- бассейн, аквапарк",
+					"sport": "- спорт и активный отдых: йога, танцы, теннис, фитнес",
+					"massage": "- массаж на 2 часа"
+				},
+				"fotoHotel": {
+					"url": "https://www.hoteltorinodiano.it/img/cam_doppia-economy.jpg"
+				},
+				"location": {
+					"lat": 55.78507,
+					"lon": 37.62397
+				}
+			},
+			{
+				"price": "7000",
+				"rating": "6",
+				"fullName": "Отель Марриотт Москва Гранд, Москва, Россия",
+				"locationId": 12153,
+				"_score": 749277,
+				"id": "333578",
+				"label": "Отель Марриотт Москва Гранд",
+				"locationName": "Москва, Россия",
+				"included": {
+					"food": "- завтрак, обед",
+					"swimmingPool": "- бассейн",
+					"sport": "- спорт и активный отдых: йога, танцы, теннис, фитнес",
+					"massage": "- массаж на 3 часа"
+				},
+				"fotoHotel": {
+					"url": "https://www.hoteltorinodiano.it/img/cam_doppia-standard.jpg"
+				},
+				"location": {
+					"lat": 55.76847,
+					"lon": 37.59966
+				}
+			},
+			{
+				"price": "5540",
+				"rating": "9",
+				"fullName": "Отель Марриотт Москва Тверская, Москва, Россия",
+				"locationId": 12153,
+				"_score": 524656,
+				"id": "333600",
+				"label": "Отель Марриотт Москва Тверская",
+				"locationName": "Москва, Россия",
+				"included": {
+					"food": "- завтрак, обед",
+					"kidsClub": "- детская игровая комната",
+					"swimmingPool": "- бассейн",
+					"sport": "- спорт и активный отдых: йога, танцы, теннис, фитнес",
+					"massage": "- массаж на 2 часа"
+				},
+				"fotoHotel": {
+					"url": "https://cdn.pixabay.com/photo/2019/05/28/00/15/indoors-4234071__480.jpg"
+				},
+				"location": {
+					"lat": 55.77597,
+					"lon": 37.58685
+				}
+			},
+			{
+				"price": "9990",
+				"rating": "7",
+				"fullName": "Отель Москва, Санкт-Петербург, Россия",
+				"locationId": 12196,
+				"_score": 490501,
+				"id": "714387",
+				"label": "Отель Москва",
+				"locationName": "Санкт-Петербург, Россия",
+				"included": {
+					"food": "- завтрак, обед, ужин",
+					"sport": "- спорт и активный отдых: йога, танцы, фитнес"
+				},
+				"fotoHotel": {
+					"url": "https://hotelnogai.ru/wp-content/uploads/2016/02/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4_%D0%9A%D0%B8%D0%BD%D0%B3_1-1620x1080.jpg"
+				},
+				"location": {
+					"lat": 59.92452,
+					"lon": 30.3866
+				}
+			},
+			{
+				"price": "1990",
+				"rating": "6",
+				"fullName": "Москва Марриотт Отель Новый Арбат, Москва, Россия",
+				"locationId": 12153,
+				"_score": 442188,
+				"id": "29844226",
+				"label": "Москва Марриотт Отель Новый Арбат",
+				"locationName": "Москва, Россия",
+				"included": {
+					"food": "- завтрак, обед",
+					"kidsClub": "- детская игровая комната",
+					"swimmingPool": "- бассейн",
+					"sport": "- спорт и активный отдых: йога, танцы, теннис, фитнес",
+					"massage": "- массаж на 2 часа"
+				},
+				"fotoHotel": {
+					"url": "https://hotel-peter1.ru/storage/rooms/March2019/wHptDPnkC34gEwJmCSTS.jpg"
+				},
+				"location": {
+					"lat": 55.7531,
+					"lon": 37.58072
+				}
+			},
+			{
+				"price": "1590",
+				"rating": "8",
+				"fullName": "Москоу Холидэй Отель, Москва, Россия",
+				"locationId": 12153,
+				"_score": 424383,
+				"id": "276243",
+				"label": "Москоу Холидэй Отель",
+				"locationName": "Москва, Россия",
+				"included": {
+					"food": "- завтрак",
+					"sport": "- спорт и активный отдых: йога, танцы, фитнес",
+					"massage": "- массаж на 2 часа"
+				},
+				"fotoHotel": {
+					"url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl8_4Zs1trXQOSUMH7monWLLKBewnLtoGxXdJEMdyDdNC9WzBOol6db_km1bOd2wSzRmU&usqp=CAU"
+				},
+				"location": {
+					"lat": 55.7738,
+					"lon": 37.49917
+				}
+			},
+			{
+				"price": "4590",
+				"rating": "2",
+				"fullName": "Отель Марриотт Москва Ройал Аврора, Москва, Россия",
+				"locationId": 12153,
+				"_score": 420203,
+				"id": "333589",
+				"label": "Отель Марриотт Москва Ройал Аврора",
+				"locationName": "Москва, Россия",
+				"included": {
+					"food": "- завтрак, обед"
+				},
+				"fotoHotel": {
+					"url": "data:image/jpeg;base64,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"
+				},
+				"location": {
+					"lat": 55.762998,
+					"lon": 37.617224
+				}
+			},
+			{
+				"price": "1780",
+				"rating": "1",
+				"fullName": "Дом Москвы, Сухум, Абхазия",
+				"locationId": 1465235,
+				"_score": 404148,
+				"id": "1899378835",
+				"label": "Дом Москвы",
+				"locationName": "Сухум, Абхазия",
+				"included": {
+					"food": "- завтрак"
+				},
+				"fotoHotel": {
+					"url": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHCBYWFRgWFhUZGBgaHBocGhgcGBoaHBgcGhwcGhwaGBwcIS4lHB4rIRoaJjgmKy8xNTU1GiQ7QDszPy40NTEBDAwMEA8QHhISHjQsJCs0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NDQ0NP/AABEIALcBFAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAEAQIDBQYAB//EAEQQAAEDAgMEBwYEAwYGAwEAAAEAAhEDIQQSMQVBUWEGIjJxgZGhE0KxwdHwUmJykoLh8RQjM6KywiQ0Q1NzkwcWwxX/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAlEQACAgICAQUBAAMAAAAAAAAAAQIRAzESIUETMlFhcSJCUoH/2gAMAwEAAhEDEQA/ANKQo3BSkprlwHSQvQ7DDkS4IWqFUWJoy20qOSo9u6ZHcbj4x4IcK36Q05yPA3FrviP9ypWlanJKNOizwdBjqD3PaTlcRLTDoIZpNjqdVpcO8OaC0g9xB3DhvWZwFdgY9jnZc8QYJE847giMLQytPULzeH0n9YcAQIMd6RpF1o0ScFW7ExD3teHkktdAkAEdUH4lWQVJmidqx4ShNCcFSEOShIE4JiFCcEgTg1MB7VOx6haE9qdCDadeFKcUUAHJ2ZLiFhDq5UTqiZKRUoomxXOTCnQlDVaQhkLg1SBqWEySMNToTkhQAiRI56DxePYwS9wHede4anwBQAWXoWviQJvpry7+CzW0elQuGCfzOsPAC/mfBZjGbTfUMFxcdzRp4NFlMppBfwazaHSJjZDTnPLT930BWZx+3qj5GbKODbeZ1Khp7LqOEvIY3eXG/fG7xhPZTw7JiazgJP4dQO6L81hLKvBcccpFb7Um65WZ2u/3RTA3C59W2XKOcjT0EeilIU4ppCyNUQvCHeEU8Id4QMAdXc0wNOChqU6b+3TE8W2PpCfXb1k0NRyYnBMHfsdjuw+OTr/T5od+yKrLgZubTfw0Ksg1SMcRoSqUzN4k9FQzH1WHrXIt12yR4nreqmw22KrbEh4/MJPmLq49sSIc0OHAgf0UL8DQf7hYeLTby09FSkiHCS0zsPtxh7bSzmOsPqrKhWY/sPa7kDfxGqpH7DnsVGu5OsfvwQlXZ9Vlyx1t4v6jRUmTcltGsT2hZXDbUqstnzDg7rfz9VbYbbbT22Ec2mR5FUpFKcWXACcAoMPimP7LwTwNj5FEgKkyhQEoC4BOAVIVHJVwCVUhM4BOASBOCogUBcAuldKYClIVFVrhokkCPTv4Ki2h0lpskNOc8tPP6ApWkS+i+e8BVeP21TpzLpPAXPjw8SFj8Xt6tWJayf0sB/zHWO8wg34Ii9ao1g/COs89wHylZyyxQ1GUtItdo9KnmQyGDjq7z0HgJ5qlbTrVjIa4z77jAPidVKyvSYepTl2577meTBceiixGJe/tPJn3dB+1uvisZZZPRrHB/sxxwVJh/vKhe78DPgT/AESjaOXq02NYL3jM8mLWFpncZUDafWaJv1Ymwm0AtbeRzSNZHKxseraDMtbfSbrPezeMIx0iOo8vMvcXHdmM3ncwdnuKaWWOa0aBxgTI9xtxabqdogG1o5MtIvxdw8U9lKJ00EZRpcGcxvp8UwlKMVbBsh/N4NELlLWa0RzE3Lp1I3W3JErFzR6YVxSJSpAY9DvCJeoHhA0VtcdZI1qfWHWSNCgoVrUoanAJ7QgBoYnBie1qcGoFRGGKVj3DQlODU4NTTChj8ru2xrucQfNQu2dSdoXMP7h9fVFZUuVWpMhwi/BWv2O/3HNf3GD5H6pGVq1KxLmjg4S3wm3krPInio8b/A3+KamZvD8MHoba/GzxaY9D9VYUNoU36PAPB3VPrY+CCqU2O7VMd7eqfTVCVNns9x5HJ4+YVqYuMl9milJmWXy16fYJI/Icw/b/ACS0ukBBy1ABxMEEd4VrIH6acvTTVCzVbb41GXLxLxccbS4HllPggMRtirVMUGuje6B/qNgPIqvWSDiazE7QYwS9wb37+4anwVDjulYFmCeZ+QH3yWeqsYDNWqXu/Cw5ie97urPJN/tmW1JjWfm7b/NwkftUPM3opYW/oIxNbEVes92Rn4nnI0dzf5IPLRbrmqu/Yy3LtH1UTgXHM5xJvdxmPGTHdI0StpjhuPjrqbA+Z0WTlJ7ZosMYkz8W8w1vUbHZYMvHh1vghhT894v4zlv5lEsp6RPlYd2jfiisNs6pUsxjnD8rS4Dxs0IS+CnKMdsAZTuQCDrMbxeTDfmUuSwEbz46T1WcOZ3q9Owsv+LUp0xrlc/O4dzGW8CjMFgMMZh1Stl1DQKbPEajTitFjkzN5l4RmMlxaBaZIbwmWtvxRmC2NWf2KbyOLW5G/vdr4laRldzHFuHwzGEaOIzu7s7pI8bKZ2HxNTt1SAbwOrl57wR4LWOB+TKWWT+iqo9FHNvUq0qQ3ifaP43Gm7cVS41rWveGmQ0kNeR2gHBodHMXjmtgNgNAJc8udreSIB4GwPcAsQ0dW34BvjcN6MmNRXRmnclffZCSfz+QHouTIb+XzclXOd1HpIShJC5SQc5QuCncoXBAIr6o6y5oT6o6yRoWb2aCtCe0LmhPAQBzQpAFwCcAgAHGbQbTexhaSajsoiLHnJUmG2ix7A8E5SQ2SCDJdkAg37RAVB0za4inknNmdoYNmyY8Aq7o1jHlr6biXMz0HNkyGkV2AgTpOb/KtYwUo2ZOVSo3gI7k5RktzNi13afpH4VVvrBmGqOzFsPxMEAFzT7Z4DgDrGt+CSg2VyLgKTKqHopiXvokveXkPcA48IbHxV610KWqdDXas4sUL6SOa2Uj6aLHRT1acXFlX4wkjrQ4cHAFXtemqnH2BSsdGexGRgzim0uLo6xcWi0zllC1sU98BziRubYN0tAHVPoUTtBvUB/P/tQbG7/vTyPimhpVoUM+fw8/MFEUMNns0SSYAAm8aQJuSRoAU1rLffDnI8iFabAH9/T/AFs48fH4qo9uhZG1FtElLo9V7Tyym3jUe1uvLrPnyUhw2Ep3fXL3cGNDR3Z3yTPJT9LMCX4pkEtBY4mDEmwmND4ojBbDpsghgJkGTqu2OCJxucmu2V+P2kKVU0aGEa6oGtcS4GoRmEgy6QDHAKNz8bWHXqZW6ZQbDwFvRWNKjmxVY69Sn4QzVWrMO0CT9gclrGEaIbrRmaOxWk9dxcR8gdJt6LQbPwzGNcGiAWD0L9PPVFspgE85jy9YnT+SjxTQ3TWDN1UkkuhX2WOFAyCBvdPOXu9E+qz6d5mR4IPAVDlPVMZjvib7uSMfnMdkHxdA56cULQMje2zu77C80Ld35eE7uB1XpzmHKevuMwAB6yV5nVABI5HX9PJY5vaEfcv0Fv8An+HouUeYfk/zpVxnoHpIShNTgpMxXBREKYphCbArqo6yVrU6qOsnNasnstHBqeAnBqcAgZwCWEoCVAjN9JiA/Dz+M/6SsngamQPa23XZJ39V9gCOfwXpz6YOoB7xKHfs6k7tU6Z72NPyWsMijGqM5Rt2ZKhtB4a5+Z3Vggl074NzaY1Qz8Y99OqzPYmo6J6ol+c3538wtodk0SCPZtAOoAj4KD/69h7wwiQQYe+DOtpharLEXFgXQtsUHDhUePIMV+5QbP2eyi0tYCAXFxkk3MTr3BTVAuefbbRpHpUyWhUIPEKwD2kcFR+3cFLW2iW03vyjqtJ8QJA81EbZpaJ8ZU3NHiqTFtSYXaNR9F9QluYOaAALQZnWeA3qN1cuYCdbg94JB+CpK1ZLkrKraLOo39fP8J3jRANH9d+nFu7vCO2m/qD9Y3x7pVc0zz52O7kZQl0WmEtI8fXTkQY8FY7E/wCYp/rZu59wKqM274zw5gqz2G7+/pfrp8PxDgfkrgv6Rnmf8M1O2mE4hhA0pnUx73ciqbCQDLWnuLvWQk2iR7Zsx2Dr+pTUXt/ED3H6L1InC9FHgz/xFTm2n/pjTf5KzZTJseP39lV2C/xn/pZ8FcMMC/H71shaE9kVFluPMH5/RQ49sBvjppru80awj7vr6BC7Vb2T+rfPBOWgQVs67NYub+O5FASOA9UDspriww0auuXa+GVEhpBu4eRMHzHmktASPEgxYQV5piO2+PzafpK9IqU35XEluh9w9/4l5ztC1SoLWL+7Q8Fjn9q/QXuX6gDMeLv3j6JFHI/J5OSLkPQPS08FRKRqRmPSQnJAk9gA1e0nMWF6Y4qo3EkNqPaBoGvc0dhh3G9yfNU7cXW/79T/ANj/AKoWK+7FzPV2kJZC8pGNrf8Afq/+x/1TqOLqlzW/2h4kgS6o/KJMS6+ifo/Ycz1TMEmcLzzpBtio94Y2p1aYDWuplzQ8C4LoN3QYM7wq3DNxNUkU31nkCSGveSBMTE80ej9hzPVPaBd7QLyh9LGAwW4ueGWt6WunU8Niy0uBryDGQuqB5MxZmpv96o9H7Dn9HqvtAl9oF5fidnYxlM1ajqjGggdao4OOYgCGzOp3wpGbHxz2MezO9r2hwLa25wkSHOBlP0X8i5npvtAumbBeZ09j42Yd7RhgkB1U9bkIceeqNfgsThWsqve4ZnANHtC8gwTOuU6HemsV9WPlXdHoIwjyYiO+ydX2OXsLSWwYkSRoZ1HcvP8AH7We97nirUIJJBLi0kcw0xKuui+Mf7V4L3ECmCAXE3L7m/cEpYXCLlZUZxk0qLl+BFNhZkbeDAzEQJv2uJ4KsxLYBgRJJ8TqpMT0hDjnouD8vVddwAOulpNvUquxW184mB6/VYpt+C5KK8gm0j1B+sb490qua4b7/t4Jcdj5EHQODra7xv70rGyJDhFveHA8lWl2OLvQ5p7vscnaqx2Ef+Ipfrp8fxDmVX+zPw07v0qz2RH9oowzJDqYMTch4lxlogngqg+0TlX8s3GJYDVBtZn+48lK14tdvK448EzENPtrGIp/NMp03W6x4bzwtqvSRw+ADZWFBe8ktu1mpjjzVu3CsAJzM82/UqhwAxBe4UWMIytkvN5vYCCj3vxoB/uqJA1ufjkQn0DLT+zg+83d702sNAq3bdOMkR72ne36od9fHWinQmPxHT9iEr1cS5wFdjGiHlpYXGTLJmQOIjxSk+gRdbIgU5j3nX1Vix2oO/gD9yqbZtEmk8zbM6wE6RzR76B/FvHuxvTWhEz2AsdMzlcNDuHcvM9qke2qRMdYi8G7J13L0WpRMHrTry48l5vtRsVX/p//ADCyz+1fol7l+orcx4n/ANjVyZI4j9oXLjPRPRwVKwqEFSMKkzJwnNCRqcCqrsk806bN/wCJP37jFSK86cH/AIjw/wBrAqAuWsdEjpXAJoK4SqEFU6Mx3I3ZFZ1HEUnt1L2sI/E2o4NIPmD3gK76M9D34hrXvqim0iQ0XfGombNsZiDru0Wsw/QTCMcxxe9zmOa4EuPaaQ4SBANxwQFjdsOqMBiGticwmTxnh93WSyPeYMgfFenV8ExxM1HX4BvzBVbW2EyQQ+BvlonzsPRRTTLUlRlNq06lXB1aZBfkaHh1y4ezIfB/FIaQN996m6I1c+FY1rutkhpEcwCM1jBB8lqqeGoMFqgHe8fNSUqNACxAHKw9Fo2iHbejB1n1qD/705gT2+J58FY7Zwr8ThntaA7KA9gsC57ZgNneQSOcxzGqr4XDOHXY1/8AC4lS4WpQY0NZTAA3ZdPiVCpOy7bVUeFYxlSkYqMezUddpbPcTr4K26I40mu+/wD0T6PZ9V63icQTOWmwjhJ+ELO4rZWGJcXYdjC6znMY9hP8THAonLkmhwi07PNNk4osY/8A8rZ/Y/6In/8AoscS3K++7LfwImy07+hlAginVc2XB0ZswkNc3R0u94+8gsR0Qqs7D2PA0kFpHdGZT1dicZUZ6tiGGYLp35vlAhNZtKo0dRrXN5EyPAH4K8wuy67KrnljS6xBOUwRawaR8Ecdq6tqUGh4JBDm8N4BGifFOqI5OJm8Ptwkw5kC0kF0jvBOi0Ww3g16REdtmkfjbwQ2LdTeDOHYJESGZdee/QHwTNg1YxLGg2FSnH72zv8Akh41GmivWcotP4PTnO/vTYnqbgTv5JrXiWzA6x1tvPGFKwTWMb2a+IRTKL5F2nzF+Wq7Dm8FT0aeZf8Awf62rQVC7O8A26s+RPyVF0ZYcz+rOmkWgzJk8QryrV6xlrmi2bqzMcIJkc0hsbTfLGHUlw3cWnePDyVP0n7TNNDp3gfJX7qjBlbpluA4ObMCN4HFUHShzSWEEGcwsQdMusd6AQuxWTRdbe+47t4Rjj1CZnqg/BDbEpH2LiDvfund3gox2FeGkFzTYAQ0i37imhMdiG9QzbX4kLy/bDYrvH5Rvj/pDevUa+YsNmRe4eZ14ZPmvL9s/wCO+PwN3T/0W7t6zy+3/of5L9QTsTBU30g4sBMkTmmY5yuT9gO/uv4nbgPRcuY622XoKlYUOHKRr4WaGFhyiq1wAVA+sgsTVse5TKdaBRMP0rxIfVDp0kGOIDdVRjGM3CfP6J2IfLf4n/BirW0o1eAuqCpUYtliMfGjG+M/VM/t5nd6fRAwze4lNzNmwKqhWz13oBtGcE5zyXOFR7Gk6gAh4YDvHWmdwtuCvKmMedDlHAfXVec9AqxyPaTb2kgcy1oJj9vkt4HW7lhNvkbRiqsgxlZ/aD3HkXG/K8p+ExQdcFMrOGnFVHt8j7TB9CkuzQ02QHhKjaxzOwY5bvDh96oChjjA0Uz8W4jU+CXYrLKhjZsRB4GPsqZ7Q73RPdfwWVxtd8TmMjS+9Owm1CbZr8BLj5C6qn4F0X1QvZoQRwJv5pjNpsNjqgDUqOFmP73Q0cu1BUBwTy6SQ08rnd4Ko45S8CeSKLHEhj93lr5qvbjDTdlc6x0k3RLKUdoud3mBx0bCSpiGUxJcymOJytnxNytI4a2zN5vgZiHl47Lu/LljmC8geSHqOqsYc2V7R7ua4n+GyDxvSzDNMBz6h4sbb/OQCs3tPpdUe0tYxrBuJ6ztfAei0UYpEOTZFidovqFzWsDINxmNSLnQkCLhJsunVY9rmm4c1wzCQSHB14jerDZmD6jahEmo1rzuEuGYx4lWWHwgzAkgctT5KNuiuKSCae1MY1zSHBxg6NAEcDYzp6q0pdMsSz/EoyOJYWj0PySUoDwYmBqY+wrujUEfyW6jZi3XgosH0zZQcYYTmAzTbK68i4k960GF/wDkDDO1GX0+KrMNsSk97y9gMm0jTu4KHF9CaJ7GZh5On/VKXFhyRr6HSnDOvnA+XiYVd0ixVOpkLHNd2sxH8MT5LEYnoU9vYqT3i/nf4IOlgcTQfxsRckyOWaw8kqa8D6fk9O2LhGuomRBlwkajRWT8HPZc5p/U4/ErA7P2xtGkzq0c7CSR1WvN+bSD6I9n/wAhObathyw/xNP+cNHqh2KjVYmi5rTD5EkHMG6GdIAuvKNu/wDMP4ZG8f8AstW8Z04wzmOzB7CQ73S/UHUskeq8923iA6s9zTYsbEf+JoU5PaFf0v0sNgH+63dpy5AbJ2rTpsyuLpknsHf+my5cx1Uahz1G6qonvQ1SquaUi0id1ZQvfZDtegdtYwtZkaeu+w5De5Qk5MbdIwdWrcjcCfPQ/BD0cE8izT5LX4bY9ObsB77xz1VoxjR2WDwAE90Lu51o5uJh27IqfgPwUw2M+PdaeZ+i1OMfcSPPX42QeS4J14A3TUmHFBfRPDlpayRZziSBr1WmSd5mR3Qts1p8FiGbQGHaXQ69gQ0EgkgBozGASYuZiCYOi0+ApFzJqPe51z2zl1iABpdJY3J2ac1FULinho6zmt7zBVbVwz6h6jHO35iMrfN0T4K+pYdjbtYAbaC/miDM671pHEl5IeV+Cow+zagHWexo1hrS8+cgKZuEpizqjzyMMH+Vs+qIr49lMdaoxtj2nNHxKp8V03oskNBeZOjRGnEwr4xRHKTLVtCgNzHc35nnSdXyiG4hgEDJA/DbdyWExXTSu6cjWMG7qhxG7u9FSYvaVar/AIlV7uUw39ot6I5JaCm9no+M6QUKcy9hPAEk68GgqixfTrdSpnvcRG68RKxYCRTzY+KLnF9J8S/3wwcGNDfW59VUPeXGXEuJ1JJJ8yoy8BS0aTnaNtxS7YdIZCirRB5Oa0jeC6SLdzStDgtiVHNnNlB1ix89eKOp9HcP7wzOkGcxbfmB6iSn0hBWynzQpAQTkYIz5dG8Drv04ol5LRIymOJM7rWtIULGhgyghsRlGjRqAImPX5qQVTJkSN9p+OuuidjDcJtVkw5rgfAjzF/RX+ExDHQGub3A38tVkWubcywiZB36XsTa0KCtihIEySZblEk9wsSeG9WpENHpmDbBR+Tks10SZVbTPttS4loJlwaQLOud82HFalkLSyAd7J1CqdrUQRor54Cr8ayU0Jguy6hDA1WUgiCARzVXTGVGMqJNAgHaOwMM9pLqDAfxNGU+bYXlu1cLUp1HNkuFwCYPViAONhbXcvXcTU6pWE2/SBdmt6KZRUolRlTMXP5fj9Vys30xK5c/A6eRpa1WEG96a98qIleebEr64Y0ucYAElUFGuXvNR15swXgAfYSbaxWdwpA21ff0T8OI5bvBb44UrMpS8FnTvpfjyPcpzUAkAARyN7GbQPihadb8sj75p4qAyXRykzHDkrEBVq7nO+n14JrKkTaI4cPsKLEOvaTOs/zKiDzERr5+CtIkXa1WKLHkGPaNJGvYIOnj6rRt6R0GNGaoHGDZvWPEacrX5rK7SrA0MsXDi6ZnUD6fcrP0zcLVS6Ja7PQMX023UqZ0iXmPIN+qo8Z0mxNTWoWDgzq+uvqqYFKk5MKQ97y4ySSd5Jk+ZSBNkJGvnsie5KgskSF4GpUlLCvfvA9fv+St8HsJ2pbJA19LE+f9EV8hZSjMdGkovD7Oe4y424C2vDfP0Wrw2xgAHRMEWgRaNCfKEQ1mTc2RImDccZI0sjkkFNlPgdhZSDB0G4GxP3v4aK6wuFpsNmwfO0b4tu4pBWsOrFtQf5WtGnLxa502Fu+Se+Rqd/dqEWFBz3z2SZB3E/Hw5+qCxmIAkE35GNI15cjO9K/EkWHmL8LHhw8UDUAE5reJkTzFxPdu0KLGJWdItAHGZjd684UYqBnaJ325xa+777iEK7nOikARNyez6b+SJw9FojM7OdxIAaD+UAf0Q5Ao2MFF1S18hPaLoJE+7a/f3RG7QbFwLKR6rb8Tc+EmwQdIlpMuHgESyvub/VaQ2ElSNhgsSO5XNLEArG4LEEf1V1hsWO5bVZgX+cFDYgiEM3FW1UdStO9CQWRkXStfFlC96b7TiqJFxL4EQs3tRmYFXWIqqnxbgUvA0ZiphbrkbUN9Eizo15HOKEx+KFNhdv3d6IJ3rO4yv7V/5GeRPzXlwjyZ0ydDMO09ozmdrf0RTSZtAHGJ07tyHpgSPT7N/wCiJpPHI7+Q7l0mQWyoXWG/n8Y+CbiXZRrHmP6ppxIkCfvuQleuSYA9Dv42RFDZI1oJ0O7+lvqmVDAMWn5qD2x0++O8pHSfu3orJIMcBkd3Kopm4VrjD1HdxVM1NITDTVhOax7tARzR2B2eTciL3Olv6wFdYfCMMTcQdNTE+tvROkhW2U2G2bmO906Ejvtb7srzCbHAABEQYsJ57wOrKNpgAWs0zumTebX0P2Lrvaa6+WhIJ3z9nfvXL4HRMzCU2QY0G+J4cIi40iESKs3yNtuInxHiJiTMbtwjSd7t0bryYv6eaVlcgETF95J01tY/HXzkZKcZGuUC8g6XjeT3eHdCZVeCLmb246REAXOsb7aofEVAdT46ggXNh57tfKFj2iMrgDpe5tzOl0IAp1QgyJE7oOtjaDawNtbnmmvxWW2h1IFrxuIFndx3+YL8ZAcCNN5PaFzAOsj7lC0y6q6/VZFzo4jUd1+KLodWEYnaUnKwZ3ai8gG+vL75JrMK53bda/VnduBPKwtYqelRDZyi2vMogMJGn381EpfBaj8kTKVoaLcrDuhTU8JvO7d9FOxoFtfvdvCV79I7iNw/nyUqRVHFm7fH2EylAMTBiSU325Gtzp48B9UrSCdJ4nieHcFvCTRElYfhqkmNytqOJtdUOeBMaGO+OHJTUcVO5dMZWYSjRoG1jqCpP7TOqpxibT6pWYhXZFFm+tzUIxO5AvrlMzpNjoKxNc8+9V9WrMKd1T1QGJMOsfD71Sch8RCeUckqhNWLE371yzLopduY3I2Bq5VrWhoAGtr6XOunMLly5IL+TWWydunD5jmozJEnceA42j6lcuVEiz4ffHcoHOHjMx96JVypCY32oPLzNriUrOtpqdP5rlyYE9TA5gWudlB3xPwXYXZNNrrS4z70GOECAJPP03quR4AsqjYvoReeBvpw38fq2nVOkmQQRcwZJj7gLlyQBGUm02m4PK4O/Q/NLTeS0jWDeTeRx3HT48Vy5IZzXSYM7o0nfvGic3EGNByJn4bty5chCIKtQAXHPNvnQm2mm5BszOe6m0Qd5tDbDn4wEq5KXQ1sNZgadiRLxBL7+gOilqHWNFy5ZM1Q0VZ3/HuRGGBPOdOS5cgCSrXPZZHN2n80Oa4b1Rc90RutzXLk0DG6EAC5iJ3Dl3qShYzNrgLly1iJj2vLpPC3zIHL5oinYSNdAPmkXLWJmyZo5wlY/nolXLWOiJIaayb7cQuXKiGSsrb930CrKlSTPErlygoieTP9Ei5ckB//2Q=="
+				},
+				"location": {
+					"lat": 43.00095,
+					"lon": 41.01352
+				}
+			},
+			{
+				"price": "6780",
+				"rating": "6",
+				"fullName": "Апартаменты Moscow Suites Apartments Arbat, Москва, Россия",
+				"locationId": 12153,
+				"_score": 333450,
+				"id": "333581",
+				"label": "Апартаменты Moscow Suites Apartments Arbat",
+				"locationName": "Москва, Россия",
+				"included": {
+					"food": "- завтрак, обед",
+					"massage": "- баня "
+				},
+				"fotoHotel": {
+					"url": "https://cdn.miridei.com/files/img/c/idei-puteshestvii/best-hotels-and-restaurants/hotel.jpg"
+				},
+				"location": {
+					"lat": 55.753281,
+					"lon": 37.59161
+				}
+			},
+			{
+				"price": "16780",
+				"rating": "4",
+				"fullName": "Гостиница Дом Москвы, Ереван, Армения",
+				"locationId": 931,
+				"_score": 291970,
+				"id": "1121",
+				"label": "Гостиница Дом Москвы",
+				"locationName": "Ереван, Армения",
+				"included": {
+					"food": "- завтрак, обед",
+					"kidsClub": "- детская игровая комната",
+					"swimmingPool": "- бассейн",
+					"sport": "- спорт и активный отдых: йога, танцы, теннис, фитнес",
+					"massage": "- массаж на 2 часа"
+				},
+				"fotoHotel": {
+					"url": "https://bugaga.ru/uploads/posts/2018-07/1531129274_15.jpg"
+				},
+				"location": {
+					"lat": 40.17364,
+					"lon": 44.50427
+				}
+			}
+		],
+		"locations": [
+			{
+				"fullName": "Москва, Россия",
+				"cityName": "Москва",
+				"id": "12153",
+				"iata": [
+					"MOW",
+					"VKO",
+					"DME",
+					"SVO",
+					"ZIA"
+				],
+				"hotelsCount": "3541",
+				"countryCode": "RU",
+				"_score": 3541,
+				"countryName": "Россия",
+				"location": {
+					"lat": "55.752041",
+					"lon": "37.617508"
+				}
+			},
+			{
+				"fullName": "Москоу, Айдахо, США",
+				"cityName": "Москоу",
+				"id": "18335",
+				"iata": [],
+				"hotelsCount": "16",
+				"countryCode": "US",
+				"_score": 16,
+				"countryName": "США",
+				"location": {
+					"lat": "46.732388",
+					"lon": "-117.000165"
+				}
+			},
+			{
+				"fullName": "Москари, Сельва, Майорка, Балеарские острова, Испания",
+				"cityName": "Москари",
+				"id": "24735",
+				"iata": [],
+				"hotelsCount": "95",
+				"countryCode": "ES",
+				"_score": 95,
+				"countryName": "Испания",
+				"location": {
+					"lat": "39.76482",
+					"lon": "2.93627"
+				}
+			},
+			{
+				"fullName": "Мошеничка Драга, Хорватия",
+				"cityName": "Мошеничка Драга",
+				"id": "8988",
+				"iata": [],
+				"hotelsCount": "85",
+				"countryCode": "HR",
+				"_score": 85,
+				"countryName": "Хорватия",
+				"location": {
+					"lat": "45.237778",
+					"lon": "14.252222"
+				}
+			},
+			{
+				"fullName": "Моши, Танзания",
+				"cityName": "Моши",
+				"id": "1477148",
+				"iata": [],
+				"hotelsCount": "79",
+				"countryCode": "TZ",
+				"_score": 79,
+				"countryName": "Танзания",
+				"location": {
+					"lat": "-3.35",
+					"lon": "37.33333"
+				}
+			},
+			{
+				"fullName": "Морроу, Джорджия, США",
+				"cityName": "Морроу",
+				"id": "18126",
+				"iata": [],
+				"hotelsCount": "72",
+				"countryCode": "US",
+				"_score": 72,
+				"countryName": "США",
+				"location": {
+					"lat": "33.583166",
+					"lon": "-84.339368"
+				}
+			},
+			{
+				"fullName": "Маскот, Австралия",
+				"cityName": "Маскот",
+				"id": "5429",
+				"iata": [],
+				"hotelsCount": "66",
+				"countryCode": "AU",
+				"_score": 66,
+				"countryName": "Австралия",
+				"location": {
+					"lat": "-33.93333",
+					"lon": "151.2"
+				}
+			},
+			{
+				"fullName": "Mocoóca, Бразилия",
+				"cityName": "Mocoóca",
+				"id": "1510012",
+				"iata": [],
+				"hotelsCount": "64",
+				"countryCode": "BR",
+				"_score": 64,
+				"countryName": "Бразилия",
+				"location": {
+					"lat": "-23.58333",
+					"lon": "-45.31667"
+				}
+			},
+			{
+				"fullName": "Мошонмадьяровар, Венгрия",
+				"cityName": "Мошонмадьяровар",
+				"id": "1362",
+				"iata": [],
+				"hotelsCount": "62",
+				"countryCode": "HU",
+				"_score": 62,
+				"countryName": "Венгрия",
+				"location": {
+					"lat": "47.86788",
+					"lon": "17.26994"
+				}
+			},
+			{
+				"fullName": "Мосоро, Бразилия",
+				"cityName": "Мосоро",
+				"id": "1467172",
+				"iata": [
+					"MVF"
+				],
+				"hotelsCount": "55",
+				"countryCode": "BR",
+				"_score": 55,
+				"countryName": "Бразилия",
+				"location": {
+					"lat": "-5.1875",
+					"lon": "-37.34417"
+				}
+			}
+		]
+	},
+	"status": "ok"
+}
